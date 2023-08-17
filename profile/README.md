@@ -4,9 +4,9 @@
 
 ### 🤔 What is this union?
 
-[CPE KMUTT Student Union](https://github.com/cpe-kmutt-student) is a GitHub organization to develop software/hardware for the Activities organized by students of the [Department of Computer Engineering, KMUTT](https://cpe.kmutt.ac.th/).
+[CPE KMUTT Student Union](https://github.com/cpe-kmutt-student) is a GitHub organization focused on developing software and hardware for activities organized by students of the [Department of Computer Engineering at KMUTT](https://cpe.kmutt.ac.th/).
 
-The main purpose of the union is to gather KMUTT-involved repositories in one place, and to make managing and searching such repositories easier for the next generation of KMUTT CPE students.
+The primary objective of this GitHub organization is to centralize KMUTT-related repositories in a single location, simplifying the management and discovery of these repositories for upcoming generations of KMUTT CPE students.
 
 ### 🖐️ Joining our union
 
